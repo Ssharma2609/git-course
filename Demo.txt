@@ -1,0 +1,2 @@
+This command shows the status of your working directory,
+ indicating which files have been modified, which ones are staged for commit, and if there are any untracked files.
